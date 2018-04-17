@@ -1,0 +1,9 @@
+c:\users\cfps9\documents\visual studio 2017\Projects\SimpleMux\SimpleMux\bin\Debug\SimpleMux.exe.config
+c:\users\cfps9\documents\visual studio 2017\Projects\SimpleMux\SimpleMux\bin\Debug\SimpleMux.exe
+c:\users\cfps9\documents\visual studio 2017\Projects\SimpleMux\SimpleMux\bin\Debug\SimpleMux.pdb
+c:\users\cfps9\documents\visual studio 2017\Projects\SimpleMux\SimpleMux\obj\Debug\SimpleMux.csprojResolveAssemblyReference.cache
+c:\users\cfps9\documents\visual studio 2017\Projects\SimpleMux\SimpleMux\obj\Debug\SimpleMux.Form.resources
+c:\users\cfps9\documents\visual studio 2017\Projects\SimpleMux\SimpleMux\obj\Debug\SimpleMux.Properties.Resources.resources
+c:\users\cfps9\documents\visual studio 2017\Projects\SimpleMux\SimpleMux\obj\Debug\SimpleMux.csproj.GenerateResource.Cache
+c:\users\cfps9\documents\visual studio 2017\Projects\SimpleMux\SimpleMux\obj\Debug\SimpleMux.exe
+c:\users\cfps9\documents\visual studio 2017\Projects\SimpleMux\SimpleMux\obj\Debug\SimpleMux.pdb
